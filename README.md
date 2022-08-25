@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=angular&logoColor=6DB33F)
+![Ionic](https://img.shields.io/badge/-ionic-222222?style=flat&logo=ionic&logoColor=6DB33F)
 
 ##### Languages I use
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
@@ -35,3 +35,4 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![oracle](https://img.shields.io/badge/-SQL-000000?style=flat&logo=oraclesql)
