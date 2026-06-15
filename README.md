@@ -1,40 +1,167 @@
-### Hi! 👋
+# 👋 Hi, I'm Jordy Medina
 
-<!--
-**JordyM97/JordyM97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mobile Developer | Full Stack Developer
 
-Here are some ideas to get you started:
+Software Developer with experience building enterprise mobile applications, logistics platforms, warehouse management systems, and SaaS healthcare solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Specialized in Flutter, Angular, Java, Python, Oracle, and AWS, with experience throughout the complete software lifecycle: requirements gathering, development, deployment, integrations, and production support.
 
-##### Some of the technologies I have worked with
+---
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
-![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=angular&logoColor=6DB33F)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+## 🚀 Tech Stack
 
-##### Languages I use
+### Mobile Development
 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=black)
+* Flutter
+* Ionic
+* Android (Java)
 
+### Frontend
+
+* Angular
+
+### Backend
+
+* Java
+* Python
+* Oracle PL/SQL
+* REST APIs
+
+### Cloud & DevOps
+
+* AWS
+* CI/CD
+* Mobile App Deployment
+
+### Tools
+
+* Git
+* GitHub
+* Jira
+* Postman
+
+---
+
+# 💼 Featured Projects
+
+## Upper (Courier App)
+
+Mobile application used by delivery drivers and logistics operators for last-mile operations.
+
+### Responsibilities
+
+* Requirements gathering
+* Mobile development
+* App deployment
+* Production support
+* Continuous improvements
+
+### Technologies
+
+Flutter • REST APIs • AWS
+
+---
+
+## LogiHub WMS
+
+Warehouse Management System designed to optimize inventory and warehouse operations.
+
+### Responsibilities
+
+* Feature development
+* Mobile deployment
+* API integrations
+
+### Technologies
+
+Flutter • Oracle • REST APIs
+
+---
+
+## Upper WMS
+
+Lightweight warehouse solution focused on third-party logistics partners.
+
+### Responsibilities
+
+* Requirements gathering
+* Development
+* Deployment
+* Support
+
+### Technologies
+
+Flutter • REST APIs
+
+---
+
+## LogiHub Backend
+
+Core backend platform supporting warehouse and courier operations.
+
+### Responsibilities
+
+* Warehouse functionality development
+* Courier functionality development
+* Third-party logistics integrations
+* API maintenance and enhancements
+
+### Technologies
+
+Java • Python • Oracle • REST APIs
+
+---
+
+## Phantom X (Healthcare SaaS)
+
+Enterprise healthcare platform for clinics and medical professionals.
+
+### Module: Agreements & Pricing
+
+**Responsibilities**
+
+* Agreement integrations
+* Pricing synchronization
+* Third-party system integrations
+
+### Module: Medical Records & Billing
+
+**Responsibilities**
+
+* Feature migration
+* New development
+* Process optimization
+
+### Technologies
+
+Angular • Oracle • REST APIs
+
+---
+
+# 🎯 Professional Highlights
+
+* End-to-end mobile application development.
+* Enterprise logistics and healthcare systems.
+* Third-party platform integrations.
+* Production deployments and support.
+* Requirements analysis and stakeholder communication.
+* Agile development environments.
+
+---
+
+# 🌎 Languages
+
+* Spanish — Native
+* English — Advanced
+
+---
+
+# 📫 Contact
+
+* LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+* GitHub: https://github.com/YOUR_USERNAME
+* Email: [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+> Passionate about creating scalable mobile solutions, optimizing business processes, and delivering high-quality software products that generate real value for users and organizations.
