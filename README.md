@@ -2,9 +2,13 @@
 
 ### Mobile Developer | Full Stack Developer
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jordy%20Medina-blue?logo=linkedin)](https://www.linkedin.com/in/jordy-medina-4a86721b5/)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Upper-green?logo=google-play)](https://play.google.com/store/apps/details?id=com.upperexpress.app&hl=es_EC)
+[![App Store](https://img.shields.io/badge/App%20Store-Upper-black?logo=apple)](https://apps.apple.com/gt/app/upper/id1666675903)
+
 Software Developer with experience building enterprise mobile applications, logistics platforms, warehouse management systems, and SaaS healthcare solutions.
 
-Specialized in Flutter, Angular, Java, Python, Oracle, and AWS, with experience throughout the complete software lifecycle: requirements gathering, development, deployment, integrations, and production support.
+Specialized in Flutter, Angular, Java, Python, Oracle, and AWS, with hands-on experience across the full software development lifecycle: requirements gathering, development, deployment, integrations, and production support.
 
 ---
 
@@ -44,9 +48,9 @@ Specialized in Flutter, Angular, Java, Python, Oracle, and AWS, with experience 
 
 # 💼 Featured Projects
 
-## Upper (Courier App)
+## 📦 Upper (Courier App)
 
-Mobile application used by delivery drivers and logistics operators for last-mile operations.
+Mobile application used by delivery drivers and logistics operators for international shipping and last-mile operations.
 
 ### Responsibilities
 
@@ -60,9 +64,14 @@ Mobile application used by delivery drivers and logistics operators for last-mil
 
 Flutter • REST APIs • AWS
 
+### Store Links
+
+* Android: https://play.google.com/store/apps/details?id=com.upperexpress.app&hl=es_EC
+* iOS: https://apps.apple.com/gt/app/upper/id1666675903
+
 ---
 
-## LogiHub WMS
+## 🏬 LogiHub WMS
 
 Warehouse Management System designed to optimize inventory and warehouse operations.
 
@@ -78,7 +87,7 @@ Flutter • Oracle • REST APIs
 
 ---
 
-## Upper WMS
+## 🚚 Upper WMS
 
 Lightweight warehouse solution focused on third-party logistics partners.
 
@@ -95,7 +104,7 @@ Flutter • REST APIs
 
 ---
 
-## LogiHub Backend
+## ⚙️ LogiHub Backend
 
 Core backend platform supporting warehouse and courier operations.
 
@@ -112,7 +121,7 @@ Java • Python • Oracle • REST APIs
 
 ---
 
-## Phantom X (Healthcare SaaS)
+## 🩺 Phantom X (Healthcare SaaS)
 
 Enterprise healthcare platform for clinics and medical professionals.
 
@@ -142,10 +151,11 @@ Angular • Oracle • REST APIs
 
 * End-to-end mobile application development.
 * Enterprise logistics and healthcare systems.
+* Backend and API development.
 * Third-party platform integrations.
-* Production deployments and support.
 * Requirements analysis and stakeholder communication.
-* Agile development environments.
+* CI/CD and production deployments.
+* Agile software development practices.
 
 ---
 
@@ -156,12 +166,13 @@ Angular • Oracle • REST APIs
 
 ---
 
-# 📫 Contact
+# 📫 Let's Connect
 
-* LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-* GitHub: https://github.com/YOUR_USERNAME
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* LinkedIn: https://www.linkedin.com/in/jordy-medina-4a86721b5/
+* Email: [medinajordy@hotmail.com](mailto:medinajordy@hotmail.com)
+
+Feel free to connect with me to discuss software engineering, mobile development, logistics technology, or healthcare SaaS solutions.
 
 ---
 
-> Passionate about creating scalable mobile solutions, optimizing business processes, and delivering high-quality software products that generate real value for users and organizations.
+> Passionate about building scalable mobile solutions, optimizing business processes, and delivering software that creates measurable business value.
