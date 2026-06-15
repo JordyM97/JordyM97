@@ -50,7 +50,11 @@ Specialized in Flutter, Angular, Java, Python, Oracle, and AWS, with hands-on ex
 
 ## 📦 Upper (Courier App)
 
-Mobile application used by delivery drivers and logistics operators for international shipping and last-mile operations.
+A mobile and web-based package management platform that enables customers to track and manage international shipments from purchase to final delivery.
+
+Users can view package details, access warehouse photos upon arrival, move packages between orders, request value-added services such as additional photos or repackaging, and schedule deliveries directly to their home or office.
+
+The platform provides end-to-end visibility throughout the logistics process, improving shipment tracking, package management, and delivery coordination.
 
 ### Responsibilities
 
